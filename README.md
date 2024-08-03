@@ -23,3 +23,19 @@
 
 9. **GDSII :** This process generates the final GDSII file, which is the industry-standard format for IC layout data used for chip fabrication. <br><br>
 
+
+## Project Screenshots
+
+![Screenshot from 2024-08-03 14-41-45](https://github.com/user-attachments/assets/b5e0dffc-0a51-4d39-852c-cfeceb1a8e85) <br> Fig 1: All Steps completed successfully in Qflow tool <br><br>
+
+![Screenshot from 2024-08-03 14-39-15](https://github.com/user-attachments/assets/38587073-91de-462a-a0a1-4618b5e9063b) <br> Fig 2: Syntesis Statistics <br><br>
+
+![Screenshot from 2024-03-28 19-02-18](https://github.com/user-attachments/assets/0814bf4d-62ac-41d2-bf23-24f3c8a19a26) <br> Fig 3: Routing Layers <br><br>
+
+![Screenshot from 2024-08-03 14-34-57](https://github.com/user-attachments/assets/cb2ea688-7f1b-49f9-a759-1aa5d984e02f) <br> Fig 4: Finished Chip Layout <br><br>
+
+
+
+
+
+
